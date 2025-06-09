@@ -1,1 +1,1 @@
-# soft_bad_usb
+# Bad USB file
